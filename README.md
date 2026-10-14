@@ -1,5 +1,7 @@
 # demoProject
 
+> **Note:** this project was originally developed under my earlier GitHub account, [sajid43677/demoProject](https://github.com/sajid43677/demoProject), and was moved to this account in October 2026.
+
 A Nuxt 3 storefront demo that shows products from a live nopCommerce store through its web API. It has a login flow, a product catalog with categories, a cart and a mock checkout.
 
 ## Features
